@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## 德安
 
-You can use the [editor on GitHub](https://github.com/ooo-CCC/ooo-CCC.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**【已完结】**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[德安1](https://github.com/ooo-CCC/Novel/blob/master/%E5%BE%B7%E5%AE%89/1%5B%E5%9B%9A%E7%A6%81%EF%BC%8C%E5%9C%A8%E4%B8%80%E8%B5%B7%E4%BA%86%5D.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[德安2](https://github.com/ooo-CCC/Novel/blob/master/%E5%BE%B7%E5%AE%89/2%5B%E6%B2%A1%E5%9C%A8%E4%B8%80%E8%B5%B7%5D.md)
 
-# Header 1
-## Header 2
-### Header 3
+**【坑】**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+[德安3](https://github.com/ooo-CCC/Novel/blob/master/%E5%BE%B7%E5%AE%89/3.md)
 
-**Bold** and _Italic_ and `Code` text
+[德安4](https://github.com/ooo-CCC/Novel/blob/master/%E5%BE%B7%E5%AE%89/4.md)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 策约
 
-### Jekyll Themes
+**【坑】**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ooo-CCC/ooo-CCC.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[策约1](https://github.com/ooo-CCC/Novel/blob/master/%E7%AD%96%E7%BA%A6/1.md)
